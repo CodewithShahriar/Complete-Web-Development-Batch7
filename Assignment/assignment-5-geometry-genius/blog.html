@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog (Task)</title>
+    <link rel="stylesheet" href="./src/css/output.css">
+
+    <!-- icon  -->
+    <script src="https://kit.fontawesome.com/bd160d65ef.js" crossorigin="anonymous"></script>
+
+    <!-- fonts link -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body class="bg-white-200 text-gray-900 font-inter">
+    <section class="max-w-screen-xl mx-auto px-4 md:px-32 py-16 grid gap-6">
+        <!-- question 1 -->
+        <div class="grid gap-2">
+            <h1 class="text-2xl font-bold">1. What is DOM and what is the purpose of DOM?</h1>
+            <p class="font-medium text-gray-800">
+                <i class="fa-solid fa-angles-right" style="color: #038d03;"></i>  DOM stands for Document Object Model.Dom is an essential part of making websites interactive. It is an interface that allows a programming language to manipulate the content, structure, and style of a website.
+                 One of the main purpose of using DOM is that to make a website in dynamic and interactive.</p>
+        </div>
+        <!-- question 2 -->
+        <div class="grid gap-2">
+            <h1 class="text-2xl font-bold">2. How will you select HTML elements using DOM? Name the DOM methods.</h1>
+            <p class="font-medium text-gray-800"><i class="fa-solid fa-angles-right" style="color: #038d03;"></i>   We can select HTML elements using dom in many available methods. here are the some methods:</p>
+            <ul class="grid gap-2">
+                <li class="list-disc ml-8 md:ml-16 flex items-center flex-wrap gap-2">
+                    <span class="font-semibold">Selecting Elements by ID:<span style="color: rgb(0, 16, 233);">getElementById()</span></span>
+                    <p class="font-medium text-gray-800">Select an element based on its unique  'id' attribute with the 'getElementById()' method</p>
+                </li>
+                <li class="list-disc ml-8 md:ml-16 flex items-center flex-wrap gap-2">
+                    <span class="font-semibold">Selecting Elements by Class Name:<span style="color: rgb(0, 16, 233);">getElementsByClassName()</span></span>
+                    <p class="font-medium text-gray-800">The 'getElementsByClassName()' method selects a collection of HTML elements from their 'class' attribute.</p>
+                </li>
+                <li class="list-disc ml-8 md:ml-16 flex items-center flex-wrap gap-2">
+                    <span class="font-semibold">Selecting Elements by Tag Name:<span style="color: rgb(0, 16, 233);">getElementsByTagName()</span></span> 
+                    <p class="font-medium text-gray-800">Select a collection of HTML elements by 'tag' name using the 'getElementsByTagName()'  method.</p>
+                </li>
+                <li class="list-disc ml-8 md:ml-16 flex items-center flex-wrap gap-2">
+                    <span class="font-semibold">Selecting Elements with CSS Selectors:<span style="color: rgb(0, 16, 233);">querySelector()</span> </span>
+                    <p class="font-medium text-gray-800">The 'querySelector()'  method selects an elements from its 'CSS selector'.</p>
+                </li>
+                <li class="list-disc ml-8 md:ml-16 flex items-center flex-wrap gap-2">
+                    <span class="font-semibold">Selecting Elements with CSS Selectors:<span style="color: rgb(0, 16, 233);">querySelectorAll()</span></span>
+                    <p class="font-medium text-gray-800">The 'querySelectorAll()'  method selects a collection of NodeList from their 'CSS selector'.</p>
+                </li>
+            </ul>
+        </div>
+        <!-- question 3 -->
+        <div class="grid gap-2">
+            <h1 class="text-2xl font-bold">3. What is event bubble?</h1>
+            <p class="font-medium text-gray-800"><i class="fa-solid fa-angles-right" style="color: #038d03;"></i> Event bubbling is a method of event propagation in the HTML DOM API when an event is in an element inside another element and both elements have registered a handle to that event. It is a process that starts with the element that triggered the event and then bubbles up to the containing elements in the hierarchy</p>
+        </div>
+        <!-- question 4 -->
+        <div class="grid gap-2">
+            <h1 class="text-2xl font-bold">4. What is a callback function and why will you use it?</h1>
+            <p class="font-medium text-gray-800"><i class="fa-solid fa-angles-right" style="color: #038d03;"></i> A callback function in javascript is a function that is passed as an argument in another function. Which is then invoked inside the outer function to complete some kind of routine or action. <br>
+                Callbacks are used to make sure that a function is not going to execute before a task is completed but will execute right after the task has completed. It helps us develop asynchronous JavaScript code and keeps us safe from future errors.</p>
+        </div>
+    </section>
+
+</body>
+</html>

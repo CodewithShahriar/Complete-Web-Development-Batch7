@@ -1,0 +1,295 @@
+*{
+    font-family: 'work Sans', sans-serif;
+}
+/* header style */
+
+.header{
+    background-image: url(./images/banner/banner2.png);
+    
+    width: 100%;
+    height: 700px;
+    padding: 10px 0px;
+    background-position: center;
+    margin-bottom: 130px;
+    
+}
+
+.header-title{
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    color: #151414;
+    margin-left: 800px;
+   margin-right: 230px;
+   margin-top: 170px;
+   padding: 0;
+
+}
+#possible{
+    color: green;
+}
+
+.header-sub{
+    font-weight: 400;
+    font-size: 16px;
+    
+    
+    text-align: right;
+    color: #444343;
+    margin-top: 10px;
+    margin-left: 800px;
+   margin-right: 230px;
+   line-height: 26px;
+
+}
+.contact{
+    width: 160px;
+height: 64px;
+margin-left: 1190px;
+   margin-right: 230px;
+   position: absolute;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    color: white;
+    font-size: 20px;
+    font-weight: 700px;
+    border: 0;
+    margin-top: 32px;
+    
+}
+/* new section */
+
+.failure{
+   display: flex;
+   margin-left: 206px;
+}
+.fail-text{
+    position: absolute;
+width: 416px;
+height: 400px;
+left: 862px;
+top: 1050px;
+
+}
+.fail-title{
+    font-weight: 700;
+font-size: 40px;
+    
+
+}
+.fail-des{
+    font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+margin-top: 20px;
+margin-bottom: 24px;
+
+}
+/* my plan */
+.my-plan{
+    margin-top: 130px;
+}
+
+.my-plan-title{
+    font-weight: 700;
+font-size: 40px;
+text-align: center;
+
+
+}
+.plan-container{
+    display: flex;
+    gap: 50px;
+    
+    
+}
+.plan{
+    
+    width: 214px;
+height: 197px;
+margin: 0 10px;
+text-align: center;
+padding: 20px;
+align-items: center;
+    
+}
+.plan-title{
+    font-weight: 700;
+font-size: 30px;
+gap: 100px;
+position: absolute;
+text-align: center;
+margin-left: 210px;
+
+}
+.plan-des{
+    font-weight: 500;
+font-size: 25px;
+text-align: center;
+color: #737272;
+margin-top: 80px;
+margin-left: 210px;
+position: absolute;
+
+
+}
+.plan-img{
+    margin-left:250px;
+    margin-right: 250px;
+}
+
+
+/* my skill */
+.my-skill{
+    margin-top: 130px;
+    background-color: #73727269;
+    padding-top: 20px;
+}
+
+.my-skill-title{
+    font-weight: 700;
+font-size: 35px;
+text-align: center;
+
+
+}
+.skill-container{
+    display: flex;
+    gap: 20px;
+    
+    
+}
+.skill{
+    
+    width: 214px;
+height: 197px;
+margin: 0 75px;
+text-align: center;
+padding: 20px;
+align-items: center;
+    
+}
+.skill-title{
+    font-weight: 700;
+font-size: 30px;
+gap: 100px;
+position: absolute;
+text-align: center;
+margin-left: 210px;
+
+}
+.skill-des{
+    font-weight: 500;
+font-size: 25px;
+text-align: center;
+color: #737272;
+margin-top: 80px;
+margin-left: 210px;
+position: absolute;
+
+
+}
+.skill-img{
+    margin-left:250px;
+    margin-right: 250px;
+    width: 40px;
+}
+
+
+
+/* banner */
+.banner{
+    background-image: url(./images/gradient2.png), url(./images/watch.png);
+    width: 1140px;
+height: 300px;
+margin: 216px 230px;
+}
+.banner-title{
+    font-weight: 700;
+font-size: 40px;
+color: #FFFFFF;
+padding: 58px 617px 0px 60px;
+
+}
+
+
+
+.btn-call{
+    
+    position: absolute;
+width: 160px;
+height: 64px;
+color: #F15B22;
+font-weight: 600;
+font-size: 20px;
+
+text-align: center;
+border: 0;
+border-radius: 5px;
+margin-bottom: 60px;
+margin-left: 64px;
+}
+/* footer */
+.footer{
+    background-color: #151414;
+    margin-top: 130px;
+    display: flex;
+    
+    
+}
+.footer-div{
+    padding-top: 130px;
+    padding-left: 230px;
+    padding-bottom: 130px;
+}
+.footer-title{
+    font-weight: 700;
+font-size: 45px;
+    color: #FFFFFF;
+    
+    
+}
+.footer-des{
+    font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+
+}
+.form{
+    padding-top: 130px;
+    margin-left:  350px;
+}
+.form-title{
+    font-weight: 600;
+     font-size: 25px;
+     color: #FFFFFF;
+    
+
+}
+.form input[type="email"]{
+    margin-bottom: 24px;
+    border: 1px solid white;
+    width: 100%;
+    padding: 18px 10px;
+    border-radius: 5px;
+    background-color: #151414;
+    font-weight: 400;
+font-size: 18px;
+}
+.form input[type="submit"]{
+
+    width: 170px;
+height: 64px;
+font-weight: 600;
+font-size: 20px;
+color: #F15B22;
+border-radius: 5px;
+}
+
+    
+     
+
+
+
+
+
