@@ -1,5 +1,3 @@
-## 🔗 Notion Link : https://www.notion.so/Milestone-01-HTML-CSS-And-Github-As-A-Beginner-b04cb476c8844924a832564af6aef4d6
-
 ## মাইলস্টোন ০১ এর টেনটেটিভ আউটলাইন:-
 
 ডিসেম্বর ৩১: মডিউল ১: Learn and Explore HTML
@@ -23,6 +21,8 @@
 জানুয়ারি ০৮: মাইলস্টোন ২ (মডিউল ৭)
 
 </br>
+
+ <b>🔗Notion Link </b> : https://www.notion.so/Milestone-01-HTML-CSS-And-Github-As-A-Beginner-b04cb476c8844924a832564af6aef4d6
 
 ## Assignment Mark 60
 ## 🍔Completed this milestone
