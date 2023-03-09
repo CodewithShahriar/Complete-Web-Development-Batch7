@@ -14,11 +14,11 @@ https://github.com/CodewithShahriar/Complete-Web-Development-Batch-7/tree/main/A
 <summary>
   <h3>📑 Assignment Live Site</h3>
 </summary>
-<br >
-- 1.[new-year-new-me](https://verdant-otter-af8880.netlify.app/) 60
-- 2.[ge-architect](https://serene-cat-1b3cad.netlify.app/) 46
-- 3.[legal-solution-resource](https://venerable-belekoy-74b25e.netlify.app/) 50
-- 5.[geomerty-genius](https://benevolent-cat-886bb7.netlify.app/) 60
+</br> 
+</br>  1.[new-year-new-me](https://verdant-otter-af8880.netlify.app/) 60
+</br>  2.[ge-architect](https://serene-cat-1b3cad.netlify.app/) 46
+</br>  3.[legal-solution-resource](https://venerable-belekoy-74b25e.netlify.app/) 50
+</br>  5.[geomerty-genius](https://benevolent-cat-886bb7.netlify.app/) 60
 
 
 
