@@ -14,7 +14,6 @@ https://github.com/CodewithShahriar/Complete-Web-Development-Batch-7/tree/main/A
 <summary>
   <h3>📑 Assignment Live Site</h3>
 </summary>
-</br> 
 </br>  1.[new-year-new-me](https://verdant-otter-af8880.netlify.app/) 60
 </br>  2.[ge-architect](https://serene-cat-1b3cad.netlify.app/) 46
 </br>  3.[legal-solution-resource](https://venerable-belekoy-74b25e.netlify.app/) 50
