@@ -10,27 +10,56 @@ https://github.com/CodewithShahriar/Complete-Web-Development-Batch-7/tree/main/A
 * Module 
 * Milestone 
 
-
-
-## 📑 Assignment Live Site
-- 
+<details>
+<summary>
+  <h3>📑 Assignment Live Site</h3>
+</summary>
+<br >
 - 1.[new-year-new-me](https://verdant-otter-af8880.netlify.app/) 60
 - 2.[ge-architect](https://serene-cat-1b3cad.netlify.app/) 46
 - 3.[legal-solution-resource](https://venerable-belekoy-74b25e.netlify.app/) 50
 - 5.[geomerty-genius](https://benevolent-cat-886bb7.netlify.app/) 60
 
+
+
+
+</details>
+
+
+
 </br>
 </hr>
 
-## 📄 Module Live Project 
+<details>
+<summary>
+  <h3>📃 Module Live Project </h3>
+</summary>
+<br >
+-
 -
 -
 -
 
-## 📃 Conceptual Sessions Live Project
+
+
+
+</details>
+
+<details>
+<summary>
+  <h3>📃 Conceptual Sessions Live Project </h3>
+</summary>
+<br >
 -
 -
-- 
+-
+-
+
+
+
+
+</details>
+
 </br>
 </hr>
 Don't cry for your weakness, focus on your strength.
