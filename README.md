@@ -1,9 +1,10 @@
 ![](thumbnail.png)
 </br>
 
-Complete Web Development by Jhankar Mahbub Course Assignments visit: https://github.com/CodewithShahriar/Complete-Web-Development-Batch-7/tree/main/Assignment
+## Complete Web Development by Jhankar Mahbub Course Assignments visit: 
+https://github.com/CodewithShahriar/Complete-Web-Development-Batch-7/tree/main/Assignment
 
-## Incomplete Module
+## 💡 Incomplete Module
 
 * Milestone 
 * Module 
@@ -30,6 +31,6 @@ Complete Web Development by Jhankar Mahbub Course Assignments visit: https://git
 -
 -
 - 
-
+</br>
 </hr>
 Don't cry for your weakness, focus on your strength.
