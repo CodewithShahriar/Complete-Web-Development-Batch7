@@ -3,7 +3,7 @@ var myName = "Khan";
 
 // math operation: +, -, *, /
 // shorthand: +=, --, *=, /=
-// ++, --
+// ++, -- 
 
 // 2. Array
 var friends = ["abul", "babul", "cabul", "dabul", "ebul"];

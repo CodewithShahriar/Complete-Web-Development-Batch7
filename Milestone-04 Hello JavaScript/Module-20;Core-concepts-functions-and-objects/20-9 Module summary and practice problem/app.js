@@ -9,7 +9,7 @@ if (color === "green") {
   console.log("Your are a yellow friend");
 } else {
   console.log("you are a black black friend");
-}
+} 
 
 switch (color) {
   case "green":
