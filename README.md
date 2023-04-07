@@ -2,14 +2,14 @@
 </br>
 
 ## Complete Web Development by Jhankar Mahbub Course Assignments visit: 
-https://github.com/CodewithShahriar/Complete-Web-Development-Batch-7/tree/main/Assignment
+https://github.com/CodewithShahriar/Complete-Web-Development-Batch7/tree/main/Assignment
 
 ## Notion Note visit: 
 >> https://savory-carnation-b46.notion.site/Let-s-Code-My-Career-41822e15f4b743788eca93e50ed07c24
 
 ## 💡 Incomplete Module
 
-* Milestone 
+* Milestone 4,5,6,7,8,9
 * Module 
 * Milestone 
 
