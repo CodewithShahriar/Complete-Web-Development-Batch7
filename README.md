@@ -26,6 +26,12 @@ https://github.com/CodewithShahriar/Complete-Web-Development-Batch7/tree/main/As
 </br> (4) 60 ⭐ <a href ="" target="_blank">JS Problem Solving Assignment </a>
 </br> (5) 60 ⭐ <a href ="https://benevolent-cat-886bb7.netlify.app/" target="_blank"> geomerty-genius </a>
 </br> (6) 60 ⭐ <a href ="https://courageous-treacle-95acb8.netlify.app/" target="_blank"> Ai Universe </a>
+</br> (7) Submitted <a href ="https://gorgeous-panda-e73914.netlify.app/" target="_blank"> Quiz Hero </a>
+</br> (8)  <a href ="" target="_blank"> Knowledge Cafe </a>
+</br> (9)  <a href ="" target="_blank"> Job Hunter </a>
+</br> (10)  <a href ="" target="_blank">  </a>
+</br> (11)  <a href ="" target="_blank">  </a>
+</br> (12)  <a href ="" target="_blank">  </a>
 
 
 </br> • 5 Assignment Total Mark = 336... Avg = 56 </br> • 6 remaining assignment </br>• mark need
